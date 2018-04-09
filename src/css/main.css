@@ -13,3 +13,17 @@ body{
   text-align: center;
   background-color: #e7e7e7;
 }
+
+.button{
+  color: #e7e7e7;
+  border-radius: 15px;
+  padding: 15px;
+  background-color: blue;
+}
+
+.disclaimer{
+  margin-top: 50px;
+  padding-left: 15%;
+  padding-right: 15%;
+  border-top: 1px solid black;
+}
